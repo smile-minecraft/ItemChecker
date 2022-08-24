@@ -1,0 +1,5 @@
+name: ItemChecker
+version: '${project.version}'
+main: itemchecker.itemchecker.ItemChecker
+api-version: 1.19
+description: Check the spawners and other item
